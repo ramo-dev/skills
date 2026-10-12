@@ -1,0 +1,11 @@
+{
+	"$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+	"notGrouped": "bottom",
+	"groupings": [
+		{
+			"title": "Engineering",
+			"description": "Skills for integrating Compass CMS and developer tools.",
+			"skills": ["compasscms-sdk"]
+		}
+	]
+}

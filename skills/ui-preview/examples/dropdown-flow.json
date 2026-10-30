@@ -1,0 +1,19 @@
+[
+  { "type": "click", "selector": "input[role='combobox']" },
+  { "type": "type", "text": "B" },
+  { "type": "waitFor", "selector": "[role='listbox']" },
+  { "type": "wait", "ms": 250 },
+  {
+    "type": "screenshot",
+    "out": "/tmp/ui-preview/dropdown-open.png",
+    "selector": "form"
+  },
+  { "type": "press", "key": "Enter" },
+  { "type": "waitFor", "selector": "main" },
+  { "type": "wait", "ms": 500 },
+  {
+    "type": "screenshot",
+    "out": "/tmp/ui-preview/dropdown-result.png",
+    "full": true
+  }
+]

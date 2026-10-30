@@ -5,7 +5,7 @@
 		{
 			"title": "Engineering",
 			"description": "Skills for integrating Compass CMS and developer tools.",
-			"skills": ["compasscms-sdk"]
+			"skills": ["compasscms-sdk", "ui-preview"]
 		}
 	]
 }

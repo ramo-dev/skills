@@ -23,6 +23,7 @@ The CLI will let you choose which skills and agents to install.
 ## Reference
 
 - **[compasscms-sdk](./skills/compasscms-sdk/SKILL.md)** — Integrate the Compass CMS TypeScript SDK into JavaScript and TypeScript applications, with guidance on API resources, authentication, pagination, and errors.
+- **[ui-preview](./skills/ui-preview/SKILL.md)** — Headless browser preview for agents: screenshots, responsive and dark-mode checks, scripted interactions, console/network audits, and visual diffs.
 
 ## Contribute
 

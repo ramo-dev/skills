@@ -2,6 +2,11 @@
 
 Headless browser preview for coding agents: screenshots, responsive and dark-mode checks, scripted interactions, console/network/overflow audits, and visual diffs.
 
+
+<img width="1411" height="758" alt="Screenshot 2026-11-02 at 11 35 00" src="https://github.com/user-attachments/assets/b8db65e1-b31d-44a0-9814-7efec6956220" />
+
+</br>
+
 It launches a local Chromium-based browser over the Chrome DevTools Protocol. There is no npm dependency to install, and it works when a live desktop browser is not available.
 
 ## Install
